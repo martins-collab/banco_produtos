@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+#form_uniformes{
+    display: grid;
+    place-items: center;
+    border: 0.4px solid black;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+input, select{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 35px;
+}
+
+#btn{
+    height: 42px;
+}
